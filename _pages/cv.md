@@ -10,11 +10,15 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
+===
 University of Science and Technology of China (USTC), Hefei, China
+
 B.S. in Applied Physics, 2024 (expected)
+
 Condensed Matter Physics track, Yan Jici Talent Program in Physics (Honor Class)
+
 **Major GPA: 3.82/4.30 (Ranked Top 10 out of 84 in the field of Condensed Matter Physics)**
+
 Coursework: Thermodynamics and Statistical Physics A (99), Solid State Physics (95), Physics of Semiconductor
 (94), Computational Physics A (92), Computational Method (91), Theoretical Mechanics A (90)
 
@@ -23,11 +27,11 @@ Coursework: Thermodynamics and Statistical Physics A (99), Solid State Physics (
 * Endeavour Award of USTC (2021)
 * **Annual Scholarship of Yan Jici Physics Science and Technology Excellence Class** (2020)
 
-;* M.S. in Jekyll, GitHub University, 2014
-;* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+<!-- * M.S. in Jekyll, GitHub University, 2014
+* Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
 Research Experience
-======
+===
 **Summer Researcher** | The O’Hern Group in Yale School of Engineering & Applied Science &ensp; Jul.2023 - Now
 **Riverbed DEM Simulation, supervised by Prof. Corey O’Hern from Yale University** &ensp; CT, USA
 * Simulated a 3D riverbed system using 400 bi-disperse particles with periodic boundary conditions, and studied
@@ -59,7 +63,7 @@ differential equations regarding the potential and carrier distribution within t
 * Simulated the ion migration in hybrid halide perovskite MAPbBr3, and evaluated its impact on the energy conversion efficiency
   
 Course Project
-======
+===
 **Generation and Detection of Vortex Beam | Team Leader and took charge of all the simulation work** &ensp; Oct. 2022 - Mar. 2023
 * Studied the generation and propagation of vortex beams by reviewing the literature
 * Used spatial light moderator to prepare vortex beams in modes with different topological charge numbers
