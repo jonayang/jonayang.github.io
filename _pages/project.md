@@ -9,6 +9,7 @@ author_profile: false
 
 Riverbed
 ---
-![test_image](../images/profile.png "Test image")
+<!-- ![test_image](../images/profile.png "Test image") -->
+<iframe src="../images/Riverbed.gif">
 
 
