@@ -47,7 +47,7 @@ prestress history on bed’s anisotropy and resistance to applied flow (in progr
 * Utilize **C++** to develop the simulation, leveraging standard algorithms for DEM like *Verlet list* and *velocity Verlet
 integration*
 
-**Undergraduate Researcher | Laboratory of Soft Matter Physics** &ensp; Apr. 2022 - Now
+**Undergraduate Researcher \| Laboratory of Soft Matter Physics** &ensp; Apr. 2022 - Now
 
 **Soft Matter Molecular Dynamics Simulation, supervised by Prof. Ning Xu from USTC** &ensp; Hefei, China
 * Simulated the evolution of a system consisting of 256 short-range interacting particles using molecular dynamics methods, and investigated its macroscopic properties, such as pressure and moduli
@@ -55,7 +55,7 @@ integration*
 * Encapsulated the simulation code to obtain a simulation module for easy transplantation and reuse, optimized the algorithm using the *Verlet neighbor list*, and improved the computational efficiency for large-scale matrices using *Numpy* library functions
 * Utilize the *Numba* module to pre-compile functions, thereby enhancing code execution efficiency by over 90%, with stabilization’s time cost drop from 10s to less than 0.8s
 
-**Summer Researcher | GREAT Summer Research Program of UC Davis** &ensp; Jul. 2022 - Aug. 2022
+**Summer Researcher \| GREAT Summer Research Program of UC Davis** &ensp; Jul. 2022 - Aug. 2022
 
 **Supervised by Prof. Dong Yu from UC Davis** &ensp; Online
 * Constructed a model of solar cells using the finite element method, and successfully solved complex partial
@@ -65,7 +65,7 @@ differential equations regarding the potential and carrier distribution within t
   
 Course Project
 -------
-**Generation and Detection of Vortex Beam | Team Leader and took charge of all the simulation work** &ensp; 
+**Generation and Detection of Vortex Beam \| Team Leader and took charge of all the simulation work** &ensp; 
 
 Oct. 2022 - Mar. 2023
 * Studied the generation and propagation of vortex beams by reviewing the literature
