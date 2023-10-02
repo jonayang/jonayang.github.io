@@ -9,6 +9,6 @@ author_profile: false
 
 Riverbed
 ---
-[../_pages/profile.png]
+![test_image](../_pages/profile.png "Test image")
 
 
