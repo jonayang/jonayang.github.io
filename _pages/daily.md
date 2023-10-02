@@ -10,9 +10,11 @@ author_profile: false
 My Cat
 ---
 ![cat](../images/cat.png "My Cat, 2022")
+
 My Hometown
 ---
 ![hometown](../images/Hometown.png "My Hometown Hefei, China, 2022")
+
 My Travel
 ---
 ![harbin](../images/Harbin.png "Hagia Sophia, Harbin, China, 2022")
