@@ -10,6 +10,6 @@ author_profile: false
 Riverbed
 ---
 <!-- ![test_image](../images/profile.png "Test image") -->
-<iframe src="../images/Riverbed.gif">
-
+<!-- <iframe src="../images/Riverbed.gif"> -->
+![riverbed](../images/Riverbed.gif "Riverbed")
 
