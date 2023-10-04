@@ -17,7 +17,7 @@ B.S. in Applied Physics, 2024 (expected)
 
 Condensed Matter Physics track, Yan Jici Talent Program in Physics (Honor Class)
 
-**Major GPA: 3.82/4.30 (Ranked Top 10 out of 84 in the field of Condensed Matter Physics)**
+**Major GPA: 3.82/4.30 (Ranked Top 8 out of 83 in the field of Condensed Matter Physics)**
 
 Coursework: Thermodynamics and Statistical Physics A (99), Solid State Physics (95), Physics of Semiconductor
 (94), Computational Physics A (92), Computational Method (91), Theoretical Mechanics A (90)
