@@ -13,14 +13,16 @@ Education
 -------
 University of Science and Technology of China (USTC), Hefei, China
 
-B.S. in Applied Physics, 2024 (expected)
+* B.S. in Applied Physics (Condensed Matter Physics track)
 
-Condensed Matter Physics track, Yan Jici Talent Program in Physics (Honor Class)
+* Yan Jici Talent Program in Physics (Honor Class)
 
 **Major GPA: 3.82/4.30 (Ranked Top 8 out of 83 in the field of Condensed Matter Physics)**
 
 Coursework: Thermodynamics and Statistical Physics A (99), Solid State Physics (95), Physics of Semiconductor
 (94), Computational Physics A (92), Computational Method (91), Theoretical Mechanics A (90)
+
+**TOEFL: 111** | Listening: **30**, Reading: **30**, Speaking: **26**, Writing: **25**
 
 * **Outstanding Award in Atomic Physics Seminar** (Honoring USTC researchers who presented exceptional seminar presentations on topics related to atomic physics, 2022)
 * Outstanding Student Scholarship - Bronze Award of USTC (2021)
@@ -32,7 +34,11 @@ Coursework: Thermodynamics and Statistical Physics A (99), Solid State Physics (
 
 Research Experience
 -------
-**Summer Researcher** | The O’Hern Group in Yale School of Engineering & Applied Science &ensp; Jul.2023 - Now
+<!-- **Student Intern** | The O’Hern Group in Yale School of Engineering & Applied Science &ensp; Jul.2023 - Now -->
+<div style="display: flex; justify-content: space-between;">
+  <div>**Student Intern** | The O’Hern Group in Yale School of Engineering & Applied Science</div>
+  <div>Jul.2023 - Now</div>
+</div>
 
 **Riverbed DEM Simulation, supervised by Prof. Corey O’Hern from Yale University** &ensp; CT, USA
 * Simulated a 3D riverbed system using 400 bi-disperse particles with periodic boundary conditions, and studied
