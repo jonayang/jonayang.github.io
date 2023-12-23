@@ -60,7 +60,11 @@ Research Experience
   <div>Apr. 2022 - Now</div>
 </div>
 
-**Soft Matter Molecular Dynamics Simulation, supervised by Prof. Ning Xu from USTC** &ensp; Hefei, China
+<!-- **Soft Matter Molecular Dynamics Simulation, supervised by Prof. Ning Xu from USTC** &ensp; Hefei, China -->
+<div style="display: flex; justify-content: space-between;">
+  <div><strong>Soft Matter Molecular Dynamics Simulation, supervised by Prof. Ning Xu from USTC</strong></div>
+  <div>Hefei, China</div>
+</div>
 *	Simulated the evolution of a system consisting of short-range interacting particles using Molecular Dynamics (MD) in Python
   *	Modularized the software for easy porting and reuse, optimized the algorithm using the Verlet neighbor list, and improved the computational efficiency for large-scale matrices using Numpy library functions
   *	Utilized the Numba module to pre-compile functions, thereby enhancing code execution efficiency by over 90%
@@ -78,7 +82,7 @@ Research Experience
 </div>
 
 <div style="display: flex; justify-content: space-between;">
-  <div><strong>Supervised by Prof. Dong Yu</strong> from UC Davis</div>
+  <div><strong>Supervised by Prof. Dong Yu from UC Davis</strong></div>
   <div>Online</div>
 </div>
 *	Constructed a model of solar cells using Finite Element Method (FEM) in COMSOL
